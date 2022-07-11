@@ -42,6 +42,8 @@ a {
     border: 2px dashed black;
 }
 
-.contact-me{
-    
+.footer{
+    background-color: #2C3E50;
+    border: 2px dashed white;
+    height: 400px;
 }
