@@ -4,5 +4,44 @@
 
 a {
     text-decoration: none;
+}
 
+.bg-green{
+    background-color: #1ABC9C;
+}
+
+.hero{
+    height: 500px;
+}
+
+.portfolio{
+    height: 800px;
+    border: 2px dashed black;
+}
+
+.col-12{
+    border: 2px dashed black;
+}
+
+.about{
+    height: 500px;
+}
+
+.about .row{
+    border: 2px dashed black;
+    max-height: 700px;
+}
+
+.col-6 {
+    border: 2px dashed black;
+    height: 200px;
+}
+
+.contacts{
+    height: 500px;
+    border: 2px dashed black;
+}
+
+.contact-me{
+    
 }
