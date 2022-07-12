@@ -1,3 +1,4 @@
+
 .navbar {
     background-color: #2C3E50;
 }
@@ -10,6 +11,18 @@ a {
     background-color: #1ABC9C;
 }
 
+.bg-dark{
+    background-color: #3A546D;
+}
+
+.bg-darker{
+    background-color: #2C3E50;
+}
+
+.bg-light{
+    background-color: white;
+}
+
 .hero{
     height: 500px;
 }
@@ -19,7 +32,7 @@ a {
     border: 2px dashed black;
 }
 
-.col-12{
+.col{
     border: 2px dashed black;
 }
 
@@ -37,6 +50,10 @@ a {
     height: 200px;
 }
 
+.debug .contacts{
+    height: 500px;
+}
+
 .contacts{
     height: 500px;
     border: 2px dashed black;
@@ -46,4 +63,4 @@ a {
     background-color: #2C3E50;
     border: 2px dashed white;
     height: 400px;
-}
+} */
