@@ -75,7 +75,15 @@ input, textarea {
 
 textarea {
     min-height: 200px;
-  }
+}
+
+input[type="submit"] {
+    width: fit-content;
+    padding: 10px 20px;
+    background-color: #1ABC9C;
+    border-radius: 10px;
+    color: #FFF;
+}
 
 .footer{
     background-color: #2C3E50;
