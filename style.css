@@ -33,15 +33,6 @@ a {
     height: 500px;
 }
 
-.about .row{
-    border: 2px dashed black;
-    max-height: 700px;
-}
-
-.col-6 {
-    border: 2px dashed black;
-    height: 200px;
-}
 
 .avatarimg{
     width: 250px;
