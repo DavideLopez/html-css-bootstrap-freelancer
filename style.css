@@ -27,14 +27,9 @@ a {
     height: 500px;
 }
 
-.portfolio{
-    height: 800px;
+/* .col{
     border: 2px dashed black;
-}
-
-.col{
-    border: 2px dashed black;
-}
+} */
 
 .about{
     height: 500px;
@@ -50,6 +45,10 @@ a {
     height: 200px;
 }
 
+.avatarimg{
+    width: 250px;
+}
+
 .debug .contacts{
     height: 500px;
 }
@@ -63,4 +62,4 @@ a {
     background-color: #2C3E50;
     border: 2px dashed white;
     height: 400px;
-} */
+} 
