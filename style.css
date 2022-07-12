@@ -29,10 +29,6 @@ a {
 } */
 
 
-.about{
-    height: 500px;
-}
-
 
 .avatarimg{
     width: 250px;
@@ -60,9 +56,6 @@ a {
     background-color: black;
 }
 
-.debug .contacts{
-    height: 500px;
-}
 
 input, textarea {
     margin: 10px 0;
@@ -87,6 +80,13 @@ input[type="submit"] {
 
 .footer{
     background-color: #2C3E50;
-    border: 2px dashed white;
-    height: 400px;
+    /* border: 2px dashed white; */  
 } 
+
+.icon {
+    width: 40px;
+    aspect-ratio: 1;
+    line-height: 40px;
+    transform: scale(1.3);
+}
+
